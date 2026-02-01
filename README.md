@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently a computer science student<br>👯 I’m looking to collaborate on backend projects<br>🤝 I’m looking for help with free and open source projects<br>🌱 I’m currently learning backend development<br>💬 Ask me about python and backend development<br>⚡ I am an introvert <br> He/him
+🔭 I’m currently a computer science student<br>👯 I’m looking to collaborate on backend projects<br>🤝 I’m looking for help with free and open source projects<br>🌱 I’m currently learning backend development<br>💬 Ask me about python and backend development<br>⚡ I am an introvert <br> 🤵 He/him
 
 
 ## 🌐 Socials:
